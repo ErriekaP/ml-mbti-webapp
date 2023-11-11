@@ -1,5 +1,7 @@
 # Machine Learning Project 
 
+**_AFTER FORKING THIS REPO, DELETE THE `venv` FOLDER FIRST!! YOU WILL CREATE A NEW ONE IN THE SUCCEEDING STEP!!_**
+
 ## How to Run Locally
 
 Create a virtual environment then install all requirements
